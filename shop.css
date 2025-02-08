@@ -1,0 +1,222 @@
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.container-fluid {
+  background-image: url("assets/img/bg-header.jpg");
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.container-fluid span {
+  font-size: 50px;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+.container-fluid p {
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+}
+.carsousel_container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+.carousel_item {
+  border: 1px solid grey;
+
+  flex-basis: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 20px;
+  padding: 5px 30px;
+  flex: 1 0 1;
+}
+.carousel_item i {
+  font-size: 50px;
+  color: rgb(104, 245, 104);
+}
+.carousel_Detail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+.carousel_Detail p {
+  color: #000;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.carousel_Detail h2 {
+  color: #000;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.carousel_item #angle_right i {
+  color: rgb(244, 63, 93);
+}
+.carousel_item #angle_left i {
+  color: rgb(244, 63, 93);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.tittle {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 50px;
+   color: rgb(244, 63, 93);
+}
+.group_card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid grey;
+  flex-basis: 20%;
+  height: 300px;
+  position: relative;
+}
+.warp_img {
+  flex-basis: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 5px;
+}
+.warp_img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+.Img_inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  position: absolute;
+  bottom: 150px;
+  left: 0;
+  gap: 10px;
+  border-radius: 5px;
+}
+.date {
+  background-color: rgb(255, 255, 255);
+  font-size: 15px;
+  padding: 2px;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 5px;
+  width: 100px;
+}
+.disc {
+  width: 100px;
+  background-color: rgb(244, 63, 93);
+  font-size: 15px;
+  padding: 2px;
+  text-align: center;
+  margin: 0;
+  border-radius: 5px;
+}
+
+.footer_tittle {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.footer_disc {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: rgb(244, 63, 93);
+}
+
+.footer_card button {
+  background-color: rgb(244, 63, 93);
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  flex-basis: 200px;
+  margin: 10px;
+}
+
+.ribbon {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  position: absolute;
+}
+
+.ribbon::before,
+.ribbon::after {
+  position: absolute;
+  z-index: -1;
+  content: "";
+  display: block;
+  border: 5px solid #2980b9;
+}
+
+.ribbon p {
+  position: absolute;
+  display: block;
+  width: 225px;
+  background-color: #3498db;
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.ribbon-top-right {
+  top: -10px;
+  right: -10px;
+}
+.ribbon-top-right::before,
+.ribbon-top-right::after {
+  border-top-color: transparent;
+  border-right-color: transparent;
+}
+.ribbon-top-right::before {
+  top: 0;
+  left: 31px;
+}
+.ribbon-top-right::after {
+  bottom: 30px;
+  right: 0;
+}
+.ribbon-top-right p {
+  left: -25px;
+  top: 31px;
+  transform: rotate(45deg);
+}
