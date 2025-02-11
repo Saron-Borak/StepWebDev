@@ -15,7 +15,7 @@
                 <a href=""><img src="assets/img/logo/logo.png" alt=""></a>
             </div>
             <ul class="nav-links">
-                <li><a href="/shop">Shop</a></li>
+                <li><a href="shop.php">Shop</a></li>
                 <li><a href="/faq">FAQ</a></li>
                 <li><a href="/contact">Contact</a></li>
                 <li><a href="/register">Register</a></li>

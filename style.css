@@ -23,6 +23,9 @@ main {
   width: 100%;
   max-width: 600px;
 }
+nav{
+  overflow: hidden;
+}
 
 .login-form h2 {
   text-align: center;
