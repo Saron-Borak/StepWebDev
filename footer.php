@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="footer.css">
 </head>
 <body>
-  <div class=".container-lg bg-secondary">
+  <div class="container-fluid bg-secondary">
   <footer class="py-5">
     <div class="row"> 
       <div class="col-6 col-md-2 mb-3">
@@ -46,12 +46,12 @@
         </ul>
       </div>
 
-      <div class="col-md-2 offset-md-1 sm-3 ">
+      <div class="col-md-2 offset-md-1 xl-3 ">
         <form>
           <h5>GET OUR APP </h5>
-          <p><img src="assets\img\playstore.png" alt="playstore"></p>
+          <p><img src="assets\img\playstore.png" alt="playstore" width="200px"></p>
           <div class="d-flex flex-column  justify-content-center">
-            <img src="assets/img/mockup.png" class="rounded d-block" alt="mockup">
+            <img src="assets/img/mockup.png" class="rounded d-block" alt="mockup" width="300px">
           </div>
         </form>
       </div>

@@ -16,7 +16,7 @@
     <?php include 'header.php';?>
   
     <section id="title">
-      <div class="container-fluid">
+      <div class="container_fluid">
         <span>Shopping page</span>
         <p>Sabe time and leave the groceries to us.</p>
       </div>
@@ -84,23 +84,7 @@
             </div>
           </div>
 
-          <div class="card">
-            <div class="ribbon ribbon-top-right"><p>special</p></div>
-            <!-- img -->
-            <div class="warp_img">
-              <img src="assets/img/food2.jpg" alt="vegetables" />
-              <div class="Img_inner">
-                <span class="date">Until 2025</span>
-                <span class="disc">20% OFF</span>
-              </div>
-            </div>
-            <!-- end -->
-            <div class="footer_card">
-              <h5 class="footer_tittle">Vegetables</h5>
-              <h5 class="footer_disc">10$</h5>
-              <button>Add To Cart</button>
-            </div>
-          </div>
+         
 
           <div class="card">
             <div class="ribbon ribbon-top-right"><p>special</p></div>
@@ -148,23 +132,7 @@
 
         <!-- card -->
         <div class="group_card">
-          <div class="card">
-            <div class="ribbon ribbon-top-right"><p>special</p></div>
-            <!-- img -->
-            <div class="warp_img">
-              <img src="assets/img/food2.jpg" alt="vegetables" />
-              <div class="Img_inner">
-                <span class="date">Until 2025</span>
-                <span class="disc">20% OFF</span>
-              </div>
-            </div>
-            <!-- end -->
-            <div class="footer_card">
-              <h5 class="footer_tittle">Vegetables</h5>
-              <h5 class="footer_disc">10$</h5>
-              <button>Add To Cart</button>
-            </div>
-          </div>
+          
 
           <div class="card">
             <div class="ribbon ribbon-top-right"><p>special</p></div>
@@ -230,23 +198,7 @@
 
         <!-- card -->
         <div class="group_card">
-          <div class="card">
-            <div class="ribbon ribbon-top-right"><p>special</p></div>
-            <!-- img -->
-            <div class="warp_img">
-              <img src="assets/img/food2.jpg" alt="vegetables" />
-              <div class="Img_inner">
-                <span class="date">Until 2025</span>
-                <span class="disc">20% OFF</span>
-              </div>
-            </div>
-            <!-- end -->
-            <div class="footer_card">
-              <h5 class="footer_tittle">Vegetables</h5>
-              <h5 class="footer_disc">10$</h5>
-              <button>Add To Cart</button>
-            </div>
-          </div>
+          
 
           <div class="card">
             <div class="ribbon ribbon-top-right"><p>special</p></div>
@@ -312,24 +264,7 @@
 
         <!-- card -->
         <div class="group_card">
-          <div class="card">
-            <div class="ribbon ribbon-top-right"><p>special</p></div>
-            <!-- img -->
-            <div class="warp_img">
-              <img src="assets/img/food2.jpg" alt="vegetables" />
-              <div class="Img_inner">
-                <span class="date">Until 2025</span>
-                <span class="disc">20% OFF</span>
-              </div>
-            </div>
-            <!-- end -->
-            <div class="footer_card">
-              <h5 class="footer_tittle">Vegetables</h5>
-              <h5 class="footer_disc">10$</h5>
-              <button>Add To Cart</button>
-            </div>
-          </div>
-
+          
           <div class="card">
             <div class="ribbon ribbon-top-right"><p>special</p></div>
             <!-- img -->
@@ -394,23 +329,7 @@
 
         <!-- card -->
         <div class="group_card">
-          <div class="card">
-            <div class="ribbon ribbon-top-right"><p>special</p></div>
-            <!-- img -->
-            <div class="warp_img">
-              <img src="assets/img/food2.jpg" alt="vegetables" />
-              <div class="Img_inner">
-                <span class="date">Until 2025</span>
-                <span class="disc">20% OFF</span>
-              </div>
-            </div>
-            <!-- end -->
-            <div class="footer_card">
-              <h5 class="footer_tittle">Vegetables</h5>
-              <h5 class="footer_disc">10$</h5>
-              <button>Add To Cart</button>
-            </div>
-          </div>
+          
 
           <div class="card">
             <div class="ribbon ribbon-top-right"><p>special</p></div>
