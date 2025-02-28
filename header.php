@@ -45,10 +45,10 @@
             </div>
             <ul class="nav-links">
                 <li><a href="shop.php">Shop</a></li>
-                <li><a href="/faq">FAQ</a></li>
-                <li><a href="/contact">Contact</a></li>
-                <li><a href="/register">Register</a></li>
-                <li><a href="/login">Login</a></li>
+                <li><a href="faq.php">FAQ</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li><a href="register.php">Register</a></li>
+                <li><a href="login.php">Login</a></li>
             </ul>
         </nav>
 <<<<<<< HEAD
