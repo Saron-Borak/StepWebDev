@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 
@@ -24,6 +25,8 @@
             </ul>
         </nav>
 =======
+=======
+>>>>>>> 3d3a5e509f599da6ddb925d6e0acfd4bf37c51e3
 <!DOCTYPE html>
 <html lang="en">
 
@@ -48,5 +51,8 @@
                 <li><a href="/login">Login</a></li>
             </ul>
         </nav>
+<<<<<<< HEAD
 >>>>>>> 9a9cb884a4fed5ccb992633d25517dc98ff71f16
+=======
+>>>>>>> 3d3a5e509f599da6ddb925d6e0acfd4bf37c51e3
     </header>
