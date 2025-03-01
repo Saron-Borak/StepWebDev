@@ -5,14 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Freschery - Fresh Produce Delivery</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="header.css">
 </head>
 
 <body>
     <header>
         <nav>
             <div class="logo">
-                <a href=""><img src="assets/img/logo/logo.png" alt=""></a>
+                <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
             </div>
             <ul class="nav-links">
                 <li><a href="shop.php">Shop</a></li>
@@ -23,3 +23,4 @@
             </ul>
         </nav>
     </header>
+    
