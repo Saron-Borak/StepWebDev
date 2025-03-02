@@ -1,4 +1,10 @@
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
   
 .container-fluid {
   background-image: url("assets/img/bg-header.jpg");
@@ -169,7 +175,7 @@
   border-radius: 5px;
   cursor: pointer;
   flex-basis: 200px;
-  margin-bottom: 15px;
+  margin: 10px;
 }
 
 .ribbon {
