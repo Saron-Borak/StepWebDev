@@ -4,10 +4,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+<<<<<<< HEAD
     <link rel="stylesheet" href="style/contact.css" />
+=======
+
+    <link rel="stylesheet" href="style\contact.css" />
+>>>>>>> a114f489a464aefd6980932e604161a9972bb0e1
   </head>
   <body>
   <?php include 'header.php'; ?>
+
+    <link rel="stylesheet" href="contact.css" />
+  </head>
+  <body>
+  <?php include ('header.php') ?>
+
     <section id="hero">
       <div class="default-padding">
         <div>CONTACT</div>
@@ -18,7 +29,13 @@
     <!-- send us a message -->
     <section id="send">
       <div class="sideright">
+
         <p>SEND US A MESSAGE</p>
+
+        <div class="ff">
+          <div>SEND US A MESSAGE</div>
+        </div>
+
         <form action="" class="text">
           <div class="mm">
             <input type="text" placeholder="Full Name" />
@@ -66,6 +83,9 @@
       ></iframe>
     </div>
     
+
     <?php include 'footer.php'; ?>
+
+
   </body>
 </html>
