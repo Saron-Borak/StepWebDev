@@ -60,7 +60,7 @@
         </div>
       </div>
       <!-- Most Want -->
-      <div class="container">
+      <div class="container-card">
         <span class="tittle">MOST WANTED</span>
 
         <!-- card -->
@@ -142,7 +142,7 @@
 
     <section id="Vegetables">
       <!-- Most Want -->
-      <div class="container">
+      <div class="container-card">
         <span class="tittle">VEGATABLES</span>
 
         <!-- card -->
@@ -224,7 +224,7 @@
 
     <section id="Meats">
       <!-- Most Want -->
-      <div class="container">
+      <div class="container-card">
         <span class="tittle">MEATS</span>
 
         <!-- card -->
@@ -306,7 +306,7 @@
 
     <section id="fishs">
       <!-- Most Want -->
-      <div class="container">
+      <div class="container-card">
         <span class="tittle">FISHS</span>
 
         <!-- card -->
@@ -388,7 +388,7 @@
 
     <section id="fruit">
       <!-- Most Want -->
-      <div class="container">
+      <div class="container-card">
         <span class="tittle">FRUITS</span>
 
         <!-- card -->
