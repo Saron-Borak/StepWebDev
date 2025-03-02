@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Shop</title>
     <link rel="stylesheet" href="shop.css" />
-    <!-- <link rel="stylesheet" href="style.css" /> -->
 
     <script
       src="https://kit.fontawesome.com/fefa8fb813.js"
@@ -61,7 +60,7 @@
         </div>
       </div>
       <!-- Most Want -->
-      <div class="container-card">
+      <div class="container">
         <span class="tittle">MOST WANTED</span>
 
         <!-- card -->
@@ -143,7 +142,7 @@
 
     <section id="Vegetables">
       <!-- Most Want -->
-      <div class="container-card">
+      <div class="container">
         <span class="tittle">VEGATABLES</span>
 
         <!-- card -->
@@ -225,7 +224,7 @@
 
     <section id="Meats">
       <!-- Most Want -->
-      <div class="container-card">
+      <div class="container">
         <span class="tittle">MEATS</span>
 
         <!-- card -->
@@ -307,7 +306,7 @@
 
     <section id="fishs">
       <!-- Most Want -->
-      <div class="container-card">
+      <div class="container">
         <span class="tittle">FISHS</span>
 
         <!-- card -->
@@ -389,7 +388,7 @@
 
     <section id="fruit">
       <!-- Most Want -->
-      <div class="container-card">
+      <div class="container">
         <span class="tittle">FRUITS</span>
 
         <!-- card -->
