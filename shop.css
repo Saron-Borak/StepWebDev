@@ -32,7 +32,6 @@
 }
 .carousel_item {
   border: 1px solid grey;
-  overflow: hidden;
   flex-basis: 10%;
   display: flex;
   justify-content: center;
