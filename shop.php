@@ -61,7 +61,7 @@
         </div>
       </div>
       <!-- Most Want -->
-      <div class="container-card">
+      <div class="container">
         <span class="tittle">MOST WANTED</span>
 
         <!-- card -->
