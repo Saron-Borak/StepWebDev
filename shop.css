@@ -79,7 +79,7 @@
   color: rgb(244, 63, 93);
 }
 
-.container {
+.container-fluid {
   display: flex;
   justify-content: center;
   align-items: center;
