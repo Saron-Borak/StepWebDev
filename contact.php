@@ -30,8 +30,6 @@
     <section id="send">
       <div class="sideright">
 
-        <p>SEND US A MESSAGE</p>
-
         <div class="ff">
           <div>SEND US A MESSAGE</div>
         </div>
