@@ -1,0 +1,95 @@
+.hero-section {
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  padding: 80px 0;
+  text-align: center;
+  color: white;
+  min-height: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.register-container {
+  position: relative;
+  z-index: 2;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.register-title {
+  font-size: 52px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+}
+
+.register-subtitle {
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+
+.register-form-container {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 30px;
+  border-radius: 5px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.error-container {
+  background-color: rgba(255, 220, 220, 0.9);
+  border-left: 4px solid #e74c3c;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.error-container ul {
+  margin: 0;
+  padding-left: 20px;
+  color: #c0392b;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.btn-register {
+  width: 100%;
+  padding: 12px;
+  background-color: #e74c78; /* Pink color from the logo */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.btn-register:hover {
+  background-color: #d43d68;
+}
